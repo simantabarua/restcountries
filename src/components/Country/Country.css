@@ -1,0 +1,19 @@
+.country{
+    background-color: aqua;
+    padding: .5rem;  
+    width: 20rem;
+    height: 18rem;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+.country:hover{
+   transform: scale(1.05);
+   transition: .2s ease-in;
+
+}
+
+img{
+    width: 18rem;
+    height: 8rem;
+}
